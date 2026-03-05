@@ -68,5 +68,4 @@ while (seguir) {
       alert("Opción invalida");
       break;
   }
-  // agregar usuario con nombre, edad y telefono. Agregarlo a un objeto y después a un array.
 }
